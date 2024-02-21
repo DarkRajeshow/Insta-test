@@ -20,9 +20,5 @@
             "dest": "/app.js"
         }
     ],
-    "public": {
-        "static": {
-            "source": "dist"
-        }
-    }
+    "public": true
 }
